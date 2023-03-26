@@ -56,7 +56,7 @@ public class NewClass extends JFrame{
               g.setColor(color);
               g.fillRect(30*j,30*i, 30,30);
               g.setColor(Color.RED);
-              g.drawRect(30*j,30*i,30,30);
+              g.drawRect(30*j,30*i,20,20);
               
             }
        }
